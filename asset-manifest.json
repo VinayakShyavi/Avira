@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Avira/static/css/main.5e3b16f4.css",
+    "main.js": "/Avira/static/js/main.924aed01.js",
+    "index.html": "/Avira/index.html",
+    "main.5e3b16f4.css.map": "/Avira/static/css/main.5e3b16f4.css.map",
+    "main.924aed01.js.map": "/Avira/static/js/main.924aed01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3b16f4.css",
+    "static/js/main.924aed01.js"
+  ]
+}
