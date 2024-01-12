@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#folders
+/src/pages/BreadCrumb.js
+/src/pages/Meta.js
+/src/pages/ProductCard.js
