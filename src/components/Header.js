@@ -146,6 +146,16 @@ export const Header = () => {
                         Beauty & Cosmatics
                       </Link>
                     </li>
+                    <li>
+                      <Link className="dropdown-item" to="#">
+                        Footware
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="#">
+                        Travel
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </div>
